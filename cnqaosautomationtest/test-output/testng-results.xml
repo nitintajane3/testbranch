@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20643" started-at="2019-01-09T06:43:28Z" finished-at="2019-01-09T06:43:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20643" started-at="2019-01-09T06:43:28Z" finished-at="2019-01-09T06:43:48Z">
+      <class name="com.test.cnqaos.testcases.AddStudentTest">
+        <test-method status="PASS" signature="studentSetUp()[pri:0, instance:com.test.cnqaos.testcases.AddStudentTest@59f99ea]" name="studentSetUp" is-config="true" duration-ms="7975" started-at="2019-01-09T12:13:28Z" finished-at="2019-01-09T12:13:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- studentSetUp -->
+        <test-method status="PASS" signature="addStudentTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.cnqaos.testcases.AddStudentTest@59f99ea]" name="addStudentTest" duration-ms="12159" started-at="2019-01-09T12:13:36Z" data-provider="studentdata" finished-at="2019-01-09T12:13:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amrutvahini]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Docteur]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Homme]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[student name automation]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[studetnaddress sangamner]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[France]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[TRAINON]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[323212]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[12343212345]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[nitintajanewq@treee.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[01-06-1992]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dhandhalphal]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[deprt automation]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[5454564465465]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[1223333333]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Qa engineer]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[BAC + 3]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[Economie]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[Alternance formation complémentaire]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[F008-ITYSS training automation]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[OPTIMISATION DES ACHATS]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStudentTest -->
+      </class> <!-- com.test.cnqaos.testcases.AddStudentTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
